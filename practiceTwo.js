@@ -5,6 +5,7 @@
 
     let weightBmi = 43;
 
+
     if (weightBmi < 18.4) {
         console.log("You are under weight")
     }else if(weightBmi >= 18.5 && weightBmi <=  24.9){
